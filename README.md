@@ -4,11 +4,17 @@ A collection of pattern programs implemented in Java.
 Author-VedanshPundir
 
 ## Patterns Included
+<br>
 **1.Inverted star pattern**
+<br>
 Sample output:
+<br>
 ****
+<br>
 ***
+<br>
 **
+<br>
 *
 
 **2.Binary 01 pattern**
