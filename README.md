@@ -18,10 +18,15 @@ Sample output:
 *
 
 **2.Binary 01 pattern**
+<br>
 Sample output:
+<br>
 1
+<br>
 01
+<br>
 101
+<br>
 0101
 
 **3.Pyramid patter**
